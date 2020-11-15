@@ -27,6 +27,10 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
+.logo {
+    height: 50px;
+}
+
 .bloc {
     width: 100%;
     clear: both;
@@ -818,11 +822,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img/la_chouette_agence_banniere_mini.jpg");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image_de_presentation.jpg");
 }
 
 @media (max-width: 1024px) {
