@@ -28,12 +28,16 @@
 
 Vous travaillez pour La chouette agence, une grande agence de web design basée à Lyon.
 
-L’activité de l’entreprise a bien démarré mais aujourd’hui, elle est en perte de vitesse. Eh oui, la concurrence est rude. La fondatrice de l’entreprise, Sophie, cherche une solution pour faire repartir l’activité. En tapant “Entreprise web design Lyon” sur Internet, elle s’aperçoit que le site de l’agence apparaît seulement en deuxième page des moteurs de recherche. Par chance, un de vos collègues, Martin, lui a dit que vous étiez un spécialiste en référencement.
+L’activité de l’entreprise a bien démarré mais aujourd’hui, elle est en perte de vitesse. Eh oui, la concurrence est rude.
+
+La fondatrice de l’entreprise, Sophie, cherche une solution pour faire repartir l’activité. En tapant “Entreprise web design Lyon” sur Internet, elle s’aperçoit que le site de l’agence apparaît seulement en deuxième page des moteurs de recherche.
+
+Par chance, un de vos collègues, Martin, lui a dit que vous étiez un spécialiste en référencement.
 
 ## :memo: 2. Demandes à respecter <a name = "demandes_respecter"></a>
 
 * Analyser l’état actuel au niveau SEO du site fourni.
-* Suite à l'analyse proposer 10 recommandations pour améliorer le site, et les réaliser.
+* Suite à l'analyse, proposer 10 recommandations pour améliorer le site, et les réaliser.
 * Au moins une recommandation doit traiter de l'accessibilité du site web.
 * Le code HTML et CSS doit être maintenable.
 
