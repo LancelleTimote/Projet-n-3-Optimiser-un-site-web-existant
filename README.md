@@ -48,8 +48,7 @@ Par chance, un de vos collègues, Martin, lui a dit que vous étiez un spéciali
 
 ## :computer: 4. Technologies utilisées <a name = "technologies_utilisees"></a>
 
-* HTML
-* Bootstrap
+* HTML / Bootstrap
 * CSS
 * JavaScript
 * Git & GitHub
